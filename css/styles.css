@@ -52,7 +52,7 @@ body {
 	icon-linkedin
 	icon-instagram
 	icon-facebook
-	icon-GitHub
+	icon-github
 }
 
 .navigation li.threeline-icon {
@@ -130,7 +130,7 @@ body {
 
 .cv-pic {
 	float: center;
-	width: 260px;
+	width: 280px;
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
@@ -275,7 +275,7 @@ body {
 }
 
 .navigation li.threeline-icon {
-	display: inline-block;
+	display: none;
 }
 
 
@@ -332,7 +332,7 @@ body {
 
 .cv-pic {
 	width: 320px;
-	margin-top: 100px;
+	margin-top: 80px;
 	
 }
 
@@ -365,9 +365,6 @@ body {
 
 }
 
-.menu-toggle {
-  display: none;
-}
 
 }
 
