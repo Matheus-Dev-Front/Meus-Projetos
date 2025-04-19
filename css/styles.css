@@ -56,7 +56,7 @@ body {
 }
 
 .navigation li.threeline-icon {
-	display: none;
+	display: inline-block;
 }
 
 .navigation li.threeline-icon:hover {
@@ -271,7 +271,7 @@ body {
 
 
 .navigation li {
-	display: inline-block;
+	display: none;
 }
 
 .navigation li.threeline-icon {
