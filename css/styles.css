@@ -271,7 +271,7 @@ body {
 
 
 .navigation li {
-	display: none;
+	display: inline-block;
 }
 
 .navigation li.threeline-icon {
